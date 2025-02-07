@@ -1,1 +1,1 @@
-# marketplace-hackathon
+THIS IS A NEXT JS PROJECT DEVELOPED BY A IT STUDENT
